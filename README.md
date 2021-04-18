@@ -1,2 +1,2 @@
 # Projects
-Project base programs found here
+Project based programs found here
