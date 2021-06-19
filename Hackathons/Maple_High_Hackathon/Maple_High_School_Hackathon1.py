@@ -1,4 +1,4 @@
-# Hackathon project for the Maple High School Hackathon, Done by Brandon Da Costa (me), Avi Walia, Daniel Truong, and Ameya Soman
+# Hackathon project for the Maple High School Hackathon, done by Brandon Da Costa (me), Avi Walia, Daniel Truong, and Ameya Soman
 import time
 import random
 
