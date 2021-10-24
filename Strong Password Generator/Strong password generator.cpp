@@ -62,7 +62,7 @@ int main(){
         if (option == 1){
             if(include_uppercase_letters == false){
                 i = i-1;
-                continue;
+                
             }
             else{
                 password.push_back(upper_letters[random_num(0, 25)]);
@@ -72,7 +72,7 @@ int main(){
         else if(option == 2){
             if(include_lowercase_letters == false){
                 i = i-1;
-                continue;
+                
             }
             else{
                 password.push_back(lower_letters[random_num(0, 25)]);
@@ -82,7 +82,7 @@ int main(){
         else if(option == 3){
             if(include_numbers == false){
                 i = i-1;
-                continue;
+                
             }
             else{
                 password.push_back(num[random_num(0, 9)]);
@@ -93,7 +93,7 @@ int main(){
         else if(option == 4){
             if(include_symbols == false){
                 i = i-1;
-                continue;
+                
             }
             else{
                 password.push_back(symbols[random_num(0, 7)]);
