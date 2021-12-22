@@ -10,7 +10,7 @@ bool check_true(string check){
         return true;
     }
 
-    if(check == "n" || check == "N"){
+    else if(check == "n" || check == "N"){
         return false;
     }
 
