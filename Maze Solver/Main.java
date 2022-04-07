@@ -1,8 +1,6 @@
 /*
 Names: Brandon Da Costa, Ameya Soman
-Course: ICS4U 
 Date: March 23rd 2022 
-Project: Recursion Project 
 Program Description: This program that can solve mazes in the form of 2d-arrays. The program accomplishes this by using a series of recursive algorithms to both displays and solve each maze. Open characters are represented by 0, borders are represented by 1, the start point is represented by 2, and endpoint is represented by 9
 */
 
